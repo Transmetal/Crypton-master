@@ -25,7 +25,7 @@ ip adres checker | search for information from the ip
 **install on kali, ubuntu, and parrot:**
 
 * `apt-get install git`
-* `git clone https://github.com/Ranginang67/Crypton`
+* `git clone https://github.com/Transmetal/Crypton-master`
 * `chmod 777 install.sh`
 * `./install.sh`
 
